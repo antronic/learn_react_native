@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Lovely Stupid Todos",
+    "icon": "./web_hi_res_512.png",
+    "version": "1.0.0",
+    "slug": "lst",
+    "sdkVersion": "23.0.0",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.yourappname"
+    },
+    "android": {
+      "package": "inc.antronic.lst"
+    }
+  }
+}
